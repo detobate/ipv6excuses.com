@@ -11,7 +11,7 @@ IPv6 addresses are too long to remember
 No one else has <a href='https://www.google.com/intl/en/ipv6/statistics.html'>deployed</a> it
 It's too hard to support
 I don't want to <a href='https://tools.ietf.org/html/rfc4941'>expose my MAC address</a>
-Too easy for the feds to track
+It'll make it <a href='https://www.reddit.com/r/LabourUK/comments/3hkblt/im_stella_creasy_ama/cu84dwc'>easier</a> for the government to track me
 IPv6 is <a href='https://www.youtube.com/watch?v=An7s25FSK0U'>slower</a> than IPv4
 Larger headers are <a href='http://ipv6.com/articles/general/Top-10-Features-that-make-IPv6-greater-than-IPv4-Part4.htm'>less efficient</a>
 Hex is hard
@@ -27,3 +27,6 @@ IPv6 is just a fad
 IPv6 isn't supported by <a href='https://www.ovh.co.uk/vps/vps-cloud.xml'>OVH Cloud</a>
 Those stupid Privacy Extension addresses <a href='https://tools.ietf.org/html/rfc7217#section-3'>keep changing</a>
 I can just <a href='http://ipv4marketgroup.com/ipv4-pricing-in-a-post-arin-runout-world/'>buy</a> more IPv4 addresses
+Github doesn't support IPv6
+Our Lawful Intercept doesn't support IPv6 yet
+We'll deploy IPv6 next financial year
