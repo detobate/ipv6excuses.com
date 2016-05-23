@@ -4,7 +4,7 @@ Vendor bugs
 IPv6 is a <a href='https://tools.ietf.org/html/rfc6204#section-4.4'>security risk</a>
 None of our customers want it
 It's too complicated
-NAT444 is fine
+NAT444 is <a href='https://tools.ietf.org/html/rfc7021#section-3'>fine</a>
 AWS doesn't support it
 IPv6 addresses are too long to remember
 <a href='https://code.google.com/p/android/issues/detail?id=32621'>Android</a> doesn't support DHCPv6
@@ -25,3 +25,4 @@ There's no ROI on deploying IPv6
 We would have to rewrite our entire application to support it
 IPv6 is just a fad
 IPv6 isn't supported by <a href='https://www.ovh.co.uk/vps/vps-cloud.xml'>OVH Cloud</a>
+Those stupid Privacy Extension addresses <a href='https://tools.ietf.org/html/rfc7217#section-3'>keep changing</a>
