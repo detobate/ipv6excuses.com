@@ -1,20 +1,26 @@
 We've still got plenty of IPv4
-It's not mature enough
+It's not <a href='https://www.ietf.org/rfc/rfc2460.txt'>mature</a> enough
 Vendor bugs
-IPv6 is a security risk
+IPv6 is a <a href='https://tools.ietf.org/html/rfc6204#section-4.4'>security risk</a>
 None of our customers want it
 It's too complicated
 NAT444 is fine
 AWS doesn't support it
 IPv6 addresses are too long to remember
-Android doesn't support DHCPv6
-No one else has deployed it
+<a href='https://code.google.com/p/android/issues/detail?id=32621'>Android</a> doesn't support DHCPv6
+No one else has <a href='https://www.google.com/intl/en/ipv6/statistics.html'>deployed</a> it
 It's too hard to support
-I don't want to expose my MAC address
+I don't want to <a href='https://tools.ietf.org/html/rfc4941'>expose my MAC address</a>
 Too easy for the feds to track
-Larger headers are less efficient
+IPv6 is <a href='https://www.youtube.com/watch?v=An7s25FSK0U'>slower</a> than IPv4
+Larger headers are <a href='http://ipv6.com/articles/general/Top-10-Features-that-make-IPv6-greater-than-IPv4-Part4.htm'>less efficient</a>
 Hex is hard
 There's no certification track
 We don't need that many addresses
-We can use RFC6598
+We can use <a href='https://tools.ietf.org/html/rfc6598'>RFC6598</a>
 Our vendor doesn't support it
+It's not supported by <a href='https://cloud.google.com/compute/docs/networking#networks'>Google Compute</a>
+There's no ROI
+<a href='https://azure.microsoft.com/en-us/pricing/faq/'>Azure</a> doesn't support it
+We would have to rewrite our entire application to support it
+IPv6 is just a fad
