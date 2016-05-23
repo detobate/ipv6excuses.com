@@ -26,7 +26,8 @@ We would have to rewrite our entire application to support it
 IPv6 is just a fad
 IPv6 isn't supported by <a href='https://www.ovh.co.uk/vps/vps-cloud.xml'>OVH Cloud</a>
 Those stupid Privacy Extension addresses <a href='https://tools.ietf.org/html/rfc7217#section-3'>keep changing</a>
-I can just <a href='http://ipv4marketgroup.com/ipv4-pricing-in-a-post-arin-runout-world/'>buy</a> more IPv4 addresses
+Can't we just <a href='http://ipv4marketgroup.com/ipv4-pricing-in-a-post-arin-runout-world/'>buy</a> more IPv4 addresses?
 Github doesn't support IPv6
 Our Lawful Intercept doesn't support IPv6 yet
 We'll deploy IPv6 next financial year
+IPv6 isn't an <a href='https://blog.apnic.net/2016/04/18/declaring-ipv6-internet-standard/'>Internet Standard</a> yet
