@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    margin: 10%;
+    text-align:center;
+
+}
+
+h1 {
+    font-size: 3em;
+}
+
+#other {
+        font-size: 12px;
+        margin: 3px;
+        padding: 5px;
+}
+
+#small {
+    margin-top: 5%;
+    font-size: 11px;
+}
