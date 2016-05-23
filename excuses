@@ -20,7 +20,8 @@ We don't need that many addresses
 We can use <a href='https://tools.ietf.org/html/rfc6598'>RFC6598</a>
 Our vendor doesn't support it
 It's not supported by <a href='https://cloud.google.com/compute/docs/networking#networks'>Google Compute</a>
-There's no ROI
+There's no ROI on deploying IPv6
 <a href='https://azure.microsoft.com/en-us/pricing/faq/'>Azure</a> doesn't support it
 We would have to rewrite our entire application to support it
 IPv6 is just a fad
+IPv6 isn't supported by <a href='https://www.ovh.co.uk/vps/vps-cloud.xml'>OVH Cloud</a>
