@@ -37,3 +37,5 @@ Our recursive DNS can't handle the extra load
 What do you mean I have to wrap an IP in square brackets?
 I don't want to lose the <a href='http://www.internetsociety.org/deploy360/blog/2015/01/ipv6-security-myth-3-no-ipv6-nat-means-less-security/'>security</a> provided by NAT
 We don't have a lab to test it
+My <a href='http://he.net/cgi-bin/ip_transit_quote'>transit provider</a> doesn't support IPv6
+We'll deploy IPv6 right after we deploy DNSSEC
