@@ -32,3 +32,7 @@ Our Lawful Intercept doesn't support IPv6 yet
 We'll deploy IPv6 next financial year
 IPv6 isn't an <a href='https://blog.apnic.net/2016/04/18/declaring-ipv6-internet-standard/'>Internet Standard</a> yet
 End users don't care about IPv6
+What's IPv6?
+Our recursive DNS can't handle the extra load
+What do you mean I have to wrap an IP in square brackets?
+I want the extra security by using NAT
