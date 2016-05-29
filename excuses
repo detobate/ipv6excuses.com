@@ -41,3 +41,5 @@ My <a href='http://he.net/cgi-bin/ip_transit_quote'>transit provider</a> doesn't
 We'll deploy IPv6 right after we deploy DNSSEC
 It'll break our <a href='https://www.maxmind.com/en/ipv6-information-and-faq'>GeoIP</a>
 Our business intelligence team can't even parse IPv4 logfiles
+Our DDOS mitigation platform can't monitor IPv6
+We forgot to include IPv6 in our last RFP
