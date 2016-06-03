@@ -43,3 +43,5 @@ It'll break our <a href='https://www.maxmind.com/en/ipv6-information-and-faq'>Ge
 Our business intelligence team can't even parse IPv4 logfiles
 Our DDOS mitigation platform can't monitor IPv6
 We forgot to include IPv6 in our last RFP
+Did you mean IPTV?
+We have no roadmap for native IPv6 as we <a href='https://ape3000.com/ipv6/'>rolled out 6RD</a>.
