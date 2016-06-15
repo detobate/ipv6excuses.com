@@ -45,3 +45,4 @@ Our DDOS mitigation platform can't monitor IPv6
 We forgot to include IPv6 in our last RFP
 Did you mean IPTV?
 We have no roadmap for native IPv6 as we <a href='https://ape3000.com/ipv6/'>rolled out 6RD</a>.
+Too many people have <a href='https://en.wikipedia.org/wiki/IPv6_brokenness_and_DNS_whitelisting'>broken IPv6 stacks</a>
