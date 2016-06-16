@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    margin: 5%;
+    text-align:center;
+
+}
+
+h1 {
+    font-size: 3em;
+}
+
+#other {
+        font-size: 12px;
+        margin: 3px;
+        padding: 5px;
+}
+
+#small {
+    margin-top: 5%;
+    font-size: 11px;
+}
+
+table {
+    margin: 20px auto;
+    border-spacing: 2px;
+}
+
+tr {
+    height: 120px;
+}
+
+td {
+    text-align: center;
+    border: thin black solid;
+    padding: 10px;
+    width: 120px;
+}
