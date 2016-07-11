@@ -47,3 +47,4 @@ Did you mean IPTV?
 We have no roadmap for native IPv6 as we <a href='https://ape3000.com/ipv6/'>rolled out 6RD</a>.
 Too many people have <a href='https://en.wikipedia.org/wiki/IPv6_brokenness_and_DNS_whitelisting'>broken IPv6 stacks</a>
 We have IPv6, but we just want to keep things simple
+Our <a href='https://dynv6.com/'>Dynamic DNS</a> doesn't support it
