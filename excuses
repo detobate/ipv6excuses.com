@@ -5,7 +5,7 @@ IPv6 is a <a href='https://tools.ietf.org/html/rfc6204#section-4.4'>security ris
 None of our customers want it
 It's too complicated
 NAT444 is <a href='https://tools.ietf.org/html/rfc7021#section-3'>fine</a>
-AWS doesn't support it
+<a href='https://aws.amazon.com/about-aws/whats-new/2016/10/ipv6-support-for-cloudfront-waf-and-s3-transfer-acceleration/'>AWS doesn't support it</a>
 IPv6 addresses are too long to remember
 <a href='https://code.google.com/p/android/issues/detail?id=32621'>Android</a> doesn't support DHCPv6
 No one else has <a href='https://www.google.com/intl/en/ipv6/statistics.html'>deployed</a> it
