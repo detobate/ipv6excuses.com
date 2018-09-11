@@ -50,3 +50,4 @@ We have IPv6, but we just want to keep things simple
 Our <a href='https://dynv6.com/'>Dynamic DNS</a> doesn't support it
 IPv6 just isn't a priority
 It's on our roadmap
+<a href="https://github.com/systemd/systemd/issues/3374">systemd doesn't support assigning IPv6 addresses</a> to virtual devices (e.g bridge interfaces)
